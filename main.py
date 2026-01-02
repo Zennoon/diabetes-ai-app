@@ -31,3 +31,7 @@ async def batch_predict(file: UploadFile = File(...), model_choice: ModelChoice 
 
     results = service.predict_batch(df, model_choice)
     return { "results": results }
+
+@app.get("/health")
+def health_check():
+    return {"status": "awake"}
