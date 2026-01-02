@@ -1,8 +1,8 @@
 fastapi
+scikit-learn==1.6.1
 uvicorn
 jinja2
 python-multipart
 joblib
 pandas
 numpy
-scikit-learn
