@@ -180,16 +180,3 @@ Contributions are welcome — open issues for bugs or features and use pull requ
 This project includes a `LICENSE` file — see it for details.
 
 ---
-
-## Acknowledgements
-
-Built with FastAPI, Jinja2, Scikit-learn, Pandas, Plotly and TailwindCSS.
-
-If you'd like, I can also:
-- Add a small Dockerfile to the repo
-- Fix the Tailwind input path in `package.json`
-- Add a CI workflow for linting/tests
-
-``` 
-Happy to iterate further — let me know what you'd like next! 
-```
